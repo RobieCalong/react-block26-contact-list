@@ -1,0 +1,10 @@
+/* .head {
+  border: 1px solid red;
+} */
+
+.table-info {
+  background-color: rgba(255, 166, 0, 0.716);
+  border: 3px solid green;
+  border-radius: 10px;
+  padding: 20px 20px;
+}
